@@ -1,0 +1,12 @@
+dataset: cds_report_layouts
+version: "fixture.1"
+source_id: FIXTURE-TEST-SOURCE
+source_title: Test fixture source (not law)
+source_type: guidance
+retrieved_at: 2026-10-03
+source_status: laid
+fixture: true
+effective_from: 2027-01-01
+effective_to: null
+checksum_sha256: 1fae19cec3d653a4ab837095087fed9e39c15ebd41ba463d2e53ce09a4d90c29
+notes: "FIXTURE ONLY, PROVISIONAL (DATA-DEC-002). Every column name here (SYNTH_*) is INVENTED for tests; none is an HMRC heading. The real layout needs a masked HMRC Get customs data report before the pilot, and this file must never be copied to backend/refdata/."
